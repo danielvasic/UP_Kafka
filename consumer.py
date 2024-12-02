@@ -1,4 +1,4 @@
-from kafka import KafkaConsumer, KafkaAdminClient
+from kafka import KafkaConsumer
 import redis
 from textblob import TextBlob
 
